@@ -1,14 +1,16 @@
 #include <stdio.h>
 
 int main(){
-int população;
-int pontoturistico
+int populacao;
+int pontoturístico
+char codcidade[3];
+char estado
+char nomecidade[40];
+float área
+float pib
 
-    char codcidade[3];
-    char estado;
-    char nomecidade[40];
 
-    
+
 
 }
 
